@@ -23,7 +23,7 @@ I'm a Computer Engineering graduate and passionate developer focused on building
 - 📱 **Mobile Development:** Flutter, Dart, Android, iOS, cross-platform UI/UX  
 - 🧠 **AI & Data Science:** Machine learning pipelines, model training, data mining  
 - ⚙️ **Low-Level Programming:** Custom logic implementations, memory management, performance-tuned code  
-- 💬 **Languages:** English (Advanced), Persian (Native)
+- 💬 **Languages:** English (Advanced), Persian (Native) , German (Beginner)
 
 ---
 
