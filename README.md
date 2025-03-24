@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Max Noruzi
 
-I'm a Computer Engineering graduate and passionate developer focused on building intelligent systems and clean user experiences. My interests include **Mobile App Development**, **Embedded Systems**, **Machine Learning**.
+I'm a Computer Engineering graduate and passionate developer focused on building intelligent systems and clean user experiences. My interests include **Mobile App Development**, **Embedded Systems**, and **Machine Learning**.
 
 ---
 
@@ -10,28 +10,20 @@ I'm a Computer Engineering graduate and passionate developer focused on building
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2b%2b&logoColor=white)
-![MIPS](https://img.shields.io/badge/MIPS-Programming-orange)
-![NS3](https://img.shields.io/badge/NS3-NetworkSimulator-blueviolet)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
 ---
 
-## 📂 Featured Projects
+## 🧠 Skills & Interests
 
-### 🔍 Crime Analysis AI
-Analyzed real-world crime data using preprocessing, trend analysis, and Apriori association rule mining.  
-Extracted patterns based on time, location, and offense type to uncover meaningful crime correlations.
-
-### ✍️ SOP Creator AI
-Built an AI system that generates personalized Statements of Purpose using academic program data and GPT-based generation.  
-Applied advanced text preprocessing and structured prompt design for intelligent output.
-
-### 📐 MIPS Assembly Toolkit
-Collection of low-level programs including custom multiplication, exponentiation, matrix multiplication, triangle validation, and bitwise rotation.  
-Great for system-level thinking and performance-focused logic design.
-
-### 🔗 NS-3 Blockchain Node Simulation
-Simulated a blockchain network using NS-3. Each node mines, broadcasts, and validates blocks via UDP in a peer-to-peer architecture.
+- 🔧 **Embedded Systems:** C/C++, Arduino, STM32, microcontrollers, real-time programming  
+- 📱 **Mobile Development:** Flutter, Dart, Android, iOS, cross-platform UI/UX  
+- 🧠 **AI & Data Science:** Machine learning pipelines, model training, data mining  
+- ⚙️ **Low-Level Programming:** Custom logic implementations, memory management, performance-tuned code  
+- 💬 **Languages:** English (Advanced), Persian (Native)
 
 ---
 
@@ -44,4 +36,3 @@ Simulated a blockchain network using NS-3. Each node mines, broadcasts, and vali
 ---
 
 > _“Simplicity is the soul of efficiency.” – Austin Freeman_
-
