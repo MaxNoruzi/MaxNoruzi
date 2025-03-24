@@ -1,6 +1,6 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Max Noruzi
 
-I'm a Computer Engineering graduate and passionate developer focused on building intelligent systems and clean user experiences. My interests include **Mobile App Development**, **Embedded Systems**, **Machine Learning**, and **System Simulation**.
+I'm a Computer Engineering graduate and passionate developer focused on building intelligent systems and clean user experiences. My interests include **Mobile App Development**, **Embedded Systems**, **Machine Learning**.
 
 ---
 
