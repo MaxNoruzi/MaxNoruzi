@@ -31,7 +31,6 @@ I'm a Computer Engineering graduate and passionate developer focused on building
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/max-noruzi-185039267/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:noruzimax@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/yourusername)
 
 ---
 
